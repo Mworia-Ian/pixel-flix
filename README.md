@@ -5,8 +5,8 @@ Built with React.js for the user interface, Appwrite for the Trending Movies Alg
 It is also complete with a tredning section displaying which movies have been search for the most withing the application.
 
 ## 🛠️ Tech Stack
-Reach.Js
-Appwrite
+Reach.Js <br>
+Appwrite <br>
 Tailwind CSS
 
 ## 🕹️Features
