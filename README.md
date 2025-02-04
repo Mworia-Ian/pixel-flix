@@ -17,3 +17,5 @@ Tailwind CSS
 **Responsiveness:** Fully responsive design that works seamlessly across devices.<br>
 
  code architecture and reusability 
+
+ Demo: https://pixel-flix.vercel.app/
